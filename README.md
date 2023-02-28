@@ -2,6 +2,10 @@
 
 ## A collection of color themes originally developed for [Spring for Twitter](https://apps.apple.com/us/app/spring-for-twitter/id1508706541), but compatible with (and developed for, going forward) [**Mona for Mastodon**](https://mastodon.social/@MonaApp).
 
+As of February 2023, Mona's developer has implemented proprietary URL schemes, which appear to store theme data
+
+- [Themes Thread Shortlink](https://bit.ly/monathemes) - `https://bit.ly/monathemes` 
+
 <iframe src="https://mastodon.social/@MonaApp/109859984571889210/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://static-cdn.mastodon.social/embed.js" async="async"></script>
 
 ## Dark
